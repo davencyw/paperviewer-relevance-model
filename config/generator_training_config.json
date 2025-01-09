@@ -1,0 +1,11 @@
+{
+    "learning_rate": 5e-5,
+    "per_device_batch_size": 8,
+    "num_train_epochs": 1,
+    "warmup_step": 200,
+    "weight_decay": 0.01,
+    "logging_steps": 100,
+    "fp16": true,
+    "push_to_hub": false,
+    "output_folder": "results"
+}

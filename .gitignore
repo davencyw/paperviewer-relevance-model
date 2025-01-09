@@ -1,3 +1,9 @@
+# experiment results
+results
+wandb
+# lonesnake venv
+.lonesnake
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

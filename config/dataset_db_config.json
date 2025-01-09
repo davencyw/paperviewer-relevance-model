@@ -1,0 +1,5 @@
+{
+    "generator_dataset_path": "/home/dev/code/paperviewer3000/database/database.db",
+    "generator_eval_percentage": 0.1,
+    "generator_data_type": "db"
+}
