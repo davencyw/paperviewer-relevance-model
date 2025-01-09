@@ -1,0 +1,9 @@
+{
+    "generator_dataset_path": "/home/dev/code/paperviewer3000/database/database.db",
+    "generator_eval_percentage": 0.1,
+    "generator_data_type": "db",
+    "classification_dataset_path": "test_data/paper_samples.json",
+    "classification_eval_percentage": 0.1,
+    "classification_data_type": "json",
+    "max_samples_per_class": 10000
+}
